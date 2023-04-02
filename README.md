@@ -16,3 +16,8 @@ I am developping a special IC given here.
 # Software
 Developped using Arduino IDE, but still a work in progress.
 Already provides readings of Volts, Amps, power.
+# Workflow
+- Develop main unit hardware, CI, 3D printed case.
+- Develop and test software for main unit.
+- Develop Display unit harware and software.
+- Modify water power heater from V2 to V3. (new can bus connectivity, same functions).
