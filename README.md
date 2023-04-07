@@ -1,5 +1,5 @@
 # Autoconso_V3
-Display and Control Home power consumption with a raspberry Pico &amp; Can bus
+Display and Control Home power consumption with a raspberry Pico, M5stack &amp; Can bus 
 
 The aim is to create a newer version of home power supply indicating and control.
 This is very much inspired by EmonCMS work. It improves a current version which is currently running.
@@ -16,6 +16,8 @@ I am developping a special IC given here.
 # Software
 Developped using Arduino IDE, but still a work in progress.
 Already provides readings of Volts, Amps, power.
+Will be enhanced and commented in english later.
+Avoids use of libraries.
 # Workflow
 - Develop main unit hardware, CI, 3D printed case.
 - Develop and test software for main unit.
