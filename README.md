@@ -7,7 +7,7 @@ This is very much inspired by EmonCMS work. It improves a current version which 
 - measure home electrical power consumption and PV production.
 - Display on a remote colour display power consumption, PV solar production, Excess production.
 - Control excess electricity production by dumping energy on a water heater.
-# New Harware :
+# New Hardware :
 Raspberry pico selected now for its capability, reliability and price.
 - Use of a can bus for communication between main unit(sensors) and display unit, and also with power heater manager.
 - Use of physical RJ45 connectors and wiring, as they are convenient and reliable.
